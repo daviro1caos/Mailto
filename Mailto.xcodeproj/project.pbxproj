@@ -60,7 +60,6 @@
 		655A900B1D778B3F00FECA6C /* Mailto */ = {
 			isa = PBXGroup;
 			children = (
-				655A900F1D778B3F00FECA6C /* AppDelegate.h */,
 				655A90271D778B6400FECA6C /* Main */,
 				655A90261D778B5C00FECA6C /* Controller */,
 				655A90151D778B3F00FECA6C /* Main.storyboard */,
@@ -93,6 +92,7 @@
 		655A90271D778B6400FECA6C /* Main */ = {
 			isa = PBXGroup;
 			children = (
+				655A900F1D778B3F00FECA6C /* AppDelegate.h */,
 				655A90101D778B3F00FECA6C /* AppDelegate.m */,
 			);
 			name = Main;
